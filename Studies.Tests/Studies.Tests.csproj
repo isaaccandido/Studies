@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Studies.DataStructures\Studies.DataStructures.csproj" />
+    <ProjectReference Include="..\Studies.DesignPatterns\Studies.DesignPatterns.csproj" />
   </ItemGroup>
 
 </Project>
